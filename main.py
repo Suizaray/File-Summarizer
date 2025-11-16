@@ -122,7 +122,7 @@ def load_already_processed():
             original = filename.replace("_summary.md", "")
             processed.add(original)
     return processed
-
+g
 def run_agent():
     print("File Summarizer Agent running.")
     
